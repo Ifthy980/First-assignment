@@ -7,7 +7,7 @@
     font-variation-settings:
       "wdth" 100;
 }
-.btn-primary{
+.btn-primary {
     background-color: #006A50;
     font-weight: 18px;
     color: white;
@@ -15,7 +15,9 @@
     padding: 10px 20px;
     border-radius: 5px;
     border: none;
+
 }
+
 .banner-greetings{
     font-size: 15px;
     font-weight: 600px;
@@ -37,10 +39,68 @@
     border-radius: 10px;
     gap: 24px;
 }
-.banner-content{
+/* .banner-content{ */
     
 }
 .banner-title{
     font-weight: bold;
     font-size: 40px;
   }
+.about-container{
+    display: flex;
+    gap: 25px;
+}
+.about{
+    padding: 100px;
+}
+.vision{
+    padding: 20px;
+    background-color: #C6E4D6;
+    border-radius: 10px;
+}
+.vision-2{
+    background-color: rgba(84, 144, 245, 1);
+}
+.vision-3{
+    background-color: #FFC239;
+}
+.btn-primary-2{
+    background-color: blueviolet;
+}
+.btn-primary-3{
+    background-color: rgb(56, 56, 17);
+}
+.Yunus{
+    margin-top: 80px;
+}
+.details{
+    font-size: small;
+    line-height: 0;
+}
+.yon{
+    padding: 2px;
+    
+}
+.about-details{
+    display: block;
+    padding-top: 30px;
+}
+
+.ab-det-1{
+    display: flex;
+    gap: 20px;
+    box-shadow: 2px 4px 4px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+.ab-det-2{
+    
+    display: flex;
+    padding-top: 40px;
+    gap: 20px;
+    box-shadow: 2px 4px 4px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+.img-set-{
+    width: 300px
+}
