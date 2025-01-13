@@ -1,0 +1,46 @@
+
+.open-sans-normal{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.btn-primary{
+    background-color: #006A50;
+    font-weight: 18px;
+    color: white;
+    font-size: 12px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+}
+.banner-greetings{
+    font-size: 15px;
+    font-weight: 600px;
+    font
+}
+.dark-2{
+    color: rgba(14, 14, 14, 0.5);
+}
+.banner-profile-pic{
+     width: 400px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+    background-color: #C6E4D6;
+    padding: 60px;
+    border: none;
+    border-radius: 10px;
+    gap: 24px;
+}
+.banner-content{
+    
+}
+.banner-title{
+    font-weight: bold;
+    font-size: 40px;
+  }
